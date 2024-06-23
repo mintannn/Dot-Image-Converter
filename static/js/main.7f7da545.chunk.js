@@ -1,0 +1,2 @@
+(this.webpackJsonppixelartconverterf=this.webpackJsonppixelartconverterf||[]).push([[0],{9:function(e,t,r){"use strict";r.r(t);var n=r(1),c=r.n(n),i=r(3),o=r.n(i),s=r(0);var d=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:"Hello, world!"})})};o.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.7f7da545.chunk.js.map
