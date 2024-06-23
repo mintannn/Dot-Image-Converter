@@ -36,7 +36,7 @@ Node.jsとnpmがインストールされたら、以下の手順に従ってプ�
 
 1. リポジトリをクローンします：
    ```
-   git clone https://github.com/yourusername/dot-image-converter.git
+   git clone https://github.com/mintannn/Dot-Image-Converter.git
    ```
 
 2. プロジェクトディレクトリに移動します：
